@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/demo.gif" alt="App demo" width="600">
+  <img src="demo.gif" alt="App demo" width="600">
 </p>
 
 
