@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "id": 1762238846916,
+      "text": "Static Website"
+    }
+  ],
+  "inProgress": [
+    {
+      "id": 1762238818216,
+      "text": "Wordpress"
+    },
+    {
+      "id": 1762238826192,
+      "text": "Drupal"
+    }
+  ],
+  "done": [
+    {
+      "id": 1762238831745,
+      "text": "Emailer"
+    }
+  ]
+}
